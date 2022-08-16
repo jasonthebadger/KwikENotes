@@ -5,7 +5,7 @@ A lightweight note-taking program
 Requires .NET Framework 3.0
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Version 1.0 FINAL
+Version 1.0 FINAL - WILL NOT BE UPDATED FURTHER BY ME!
 
 Usage:
 
